@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @aragabz
+- I’m Mobile Developer who can develop
+    - Android
+    - IOS
+    - React Native
+- I’m currently learning Backend using 
+    - Nodejs ( Express & Nestjs )
+    - Java
